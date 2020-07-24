@@ -1,6 +1,7 @@
 # Ignore compiled files
 src/**/*.js
 src/**/*.d.ts
+src/**/*.map
 node_modules/
 pack/
 src/**/*.tgz
@@ -16,3 +17,4 @@ src/dotnet/**/[Rr]elease/
 # ignore vs
 **/.vs/
 **/.history/
+**/examples/*.json
