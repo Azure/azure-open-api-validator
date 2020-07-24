@@ -12,7 +12,8 @@
     "**/.git": true,
     "**/.svn": true,
     "**/.hg": true,
-    "**/.DS_Store": true
+    "**/.DS_Store": true,
+    "examples/*.json":true
   },
   "eslint.enable": false,
   "typescript.tsdk": "node_modules/typescript/lib"
